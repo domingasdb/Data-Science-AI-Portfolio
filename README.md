@@ -1,2 +1,1 @@
-# Data-Science-Predicting-Skill-Job-Market
-Predicting Skill Demand in the Job Market using AI
+[Explore my projects and works in the Data Science and AI field.](https://domingasdb.github.io/Data-Science-AI-Portfolio/)
